@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Temp2\A\Plugins\Compiled\IconsBuilder\obj\Debug\IconsBuilder.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Temp2\A\Plugins\Compiled\IconsBuilder\obj\Debug\IconsBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Temp2\A\Plugins\Compiled\IconsBuilder\obj\Debug\IconsBuilder.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Temp2\A\Plugins\Compiled\IconsBuilder\obj\Debug\IconsBuilder.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Temp2\A\Plugins\Compiled\IconsBuilder\obj\Debug\IconsBuilder.csproj.CoreCompileInputs.cache
